@@ -31,7 +31,8 @@ void if_statement()
     
 
 }
-// switch : alternative to using many "else if"
+// switch : alternative to using many "else if
+// add new comment
 void switch_case()
 {
     using namespace std;
